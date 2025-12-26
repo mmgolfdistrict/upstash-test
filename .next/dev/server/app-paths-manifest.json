@@ -1,4 +1,0 @@
-{
-  "/api/redis/route": "app/api/redis/route.js",
-  "/page": "app/page.js"
-}
